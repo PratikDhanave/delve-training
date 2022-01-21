@@ -1,0 +1,6 @@
+# Set a breakpoint on the function f1.
+break f1
+break f2
+break f3
+# Continue to the main function.
+continue main.main
