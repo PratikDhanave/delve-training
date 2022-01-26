@@ -1,0 +1,4 @@
+# This Dockerfile shows how to build a container that contains the
+# debugger already and then shows how to run your app via the debugger
+# so that you can easily connect to it from the host.
+FROM golang:1.17
